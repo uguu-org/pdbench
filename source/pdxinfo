@@ -1,0 +1,7 @@
+name=PDBench
+author=uguu.org
+description=Playdate benchmark
+bundleID=org.uguu.PDBench
+version=0.1
+buildNumber=1
+imagePath=launcher/
