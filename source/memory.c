@@ -3,8 +3,8 @@
 // Default memory access counts.
 //
 // This is nonzero, since running the benchmark with zero operations causes
-// the refresh rate to be too high to be readable.  We allow the user to
-// adjust parameters do zero, we just don't want to start off with
+// the frame rate to be too high to be readable.  We allow the user to
+// adjust parameters to zero, we just don't want to start off with
 // unreadable numbers.
 //
 // One alternative is to use a better font to render the frame rate, but
